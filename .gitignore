@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+
+# yarn
+yarn-error.log
+
+# build
+dist
+
+# CDK compiled files
+aws-cdk/*.js
+aws-cdk/*.d.ts
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cfn.yml
