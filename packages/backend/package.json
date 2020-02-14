@@ -17,7 +17,7 @@
     "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "aws-lambda": "^0.1.2",
+    "aws-lambda": "^1.0.5",
     "aws-sdk": "^2.502.0",
     "cfn-response": "^1.0.1",
     "uuid": "^3.3.2"
